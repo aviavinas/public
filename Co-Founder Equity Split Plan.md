@@ -17,7 +17,7 @@ To ensure fair equity distribution, the vesting structure combines **time-based*
 - **50% Performance-Based Vesting**
 
 ### Pie Chart
-![Vesting Structure Pie Chart](https://quickchart.io/chart?c=%7Btype:%22pie%22,data:%7Blabels:%5B%2225%25%20Time-Based%20Vesting%22,%2225%25%20Time-Based%20Vesting%22,%2225%25%20Performance-Based%20Vesting%22,%2225%25%20Performance-Based%20Vesting%22%5D,datasets:%5B%7Bdata:%5B25,25,25,25%5D%7D%5D%7D%7D)
+![Vesting Structure Pie Chart](https://quickchart.io/chart?c=%7Btype:%22pie%22,data:%7Blabels:%5B%2255%50%20Time-Based%20Vesting%22,%2250%50%20Performance-Based%20Vesting%22,datasets:%5B%7Bdata:%5B50,50%5D%7D%5D%7D%7D)
 
 ### 2.1 Time-Based Vesting
 - **Vesting Period**: **50% of equity** vests gradually over **4 years**.
