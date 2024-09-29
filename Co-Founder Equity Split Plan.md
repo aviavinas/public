@@ -1,4 +1,3 @@
-"""
 # Co-Founder Equity Split Plan
 
 ## 1. Initial Equity Split  
@@ -98,4 +97,3 @@ Equity can be adjusted based on contributions:
 This equity split plan promotes fairness, flexibility, and long-term motivation for both co-founders. By combining **time-based and performance-based vesting**, it ensures each co-founder contributes meaningfully and is rewarded accordingly.
 
 ---
-"""
