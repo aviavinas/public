@@ -1,6 +1,6 @@
 # Co-Founder Equity Split Plan
 
-## 1. Initial Equity Split  
+## **1. Initial Equity Split**  
 Each co-founder starts with a **minimal equity allocation** to reflect early-stage involvement and potential future contributions:
 
 - **Initial Split**: **1-5% equity** per co-founder
@@ -8,18 +8,18 @@ Each co-founder starts with a **minimal equity allocation** to reflect early-sta
 
 ---
 
-## 2. Vesting Structure  
+## **2. Vesting Structure**  
 
 To ensure fair equity distribution, the vesting structure combines **time-based** and **performance-based** milestones.
 
-### Vesting Breakdown
+### **Vesting Breakdown**
 - **50% Time-Based Vesting**
 - **50% Performance-Based Vesting**
 
-### Pie Chart
-![Vesting Structure Pie Chart](https://quickchart.io/chart?c=%7Btype:%22pie%22,data:%7Blabels:%5B%2255%50%20Time-Based%20Vesting%22,%2250%50%20Performance-Based%20Vesting%22,datasets:%5B%7Bdata:%5B50,50%5D%7D%5D%7D%7D)
+#### **Pie Chart**
+![Vesting Structure Pie Chart](https://quickchart.io/chart?c=%7Btype:%22pie%22,data:%7Blabels:%5B%2250%25%20Time-Based%20Vesting%22,%2250%25%20Performance-Based%20Vesting%22%5D,datasets:%5B%7Bdata:%5B50,50%5D%7D%5D%7D%7D)
 
-### 2.1 Time-Based Vesting
+### **2.1 Time-Based Vesting**
 - **Vesting Period**: **50% of equity** vests gradually over **4 years**.
 - **1-Year Cliff**: No equity vests in the first year; **25% vests after 12 months** of active involvement. The remainder vests gradually thereafter.
 
@@ -29,7 +29,7 @@ To ensure fair equity distribution, the vesting structure combines **time-based*
 | Year 2           | 25%               | After 1-year cliff            |
 | Years 3-4        | Remaining 25%     | Monthly/quarterly thereafter   |
 
-### 2.2 Performance-Based Vesting  
+### **2.2 Performance-Based Vesting**  
 The remaining **50% of equity** vests based on specific contributions. Here are the key milestones:
 
 | **Milestone**                 | **Description**                        | **Equity Percentage** |
@@ -40,13 +40,13 @@ The remaining **50% of equity** vests based on specific contributions. Here are 
 | **Fundraising**               | Lead or contribute to funding rounds   | 10%                    |
 | **Leadership & Strategy**     | Manage teams or guide overall direction | 10%                    |
 
-### Performance Reviews
+### **Performance Reviews**
 - Regular reviews (quarterly/bi-annual) to assess contributions.
 - Underperformance may pause or reduce equity vesting.
 
 ---
 
-## 3. Salary Structure
+## **3. Salary Structure**
 
 Once the startup reaches consistent revenue, co-founders will begin receiving a salary:
 
@@ -57,7 +57,7 @@ Once the startup reaches consistent revenue, co-founders will begin receiving a 
 
 ---
 
-## 4. Initial Financing & Loan Terms
+## **4. Initial Financing & Loan Terms**
 
 Any co-founder can contribute funds as an **unsecured loan**, ensuring fair compensation later without early financial strain on the startup.
 
@@ -75,7 +75,7 @@ Any co-founder can contribute funds as an **unsecured loan**, ensuring fair comp
 
 ---
 
-## 5. Adjusting Equity Over Time
+## **5. Adjusting Equity Over Time**
 
 Equity can be adjusted based on contributions:
 
@@ -84,7 +84,7 @@ Equity can be adjusted based on contributions:
 
 ---
 
-## 6. Founder Exit & Dispute Resolution
+## **6. Founder Exit & Dispute Resolution**
 
 | **Condition**               | **Outcome**                         |
 |-----------------------------|-------------------------------------|
@@ -93,7 +93,7 @@ Equity can be adjusted based on contributions:
 
 ---
 
-## 7. Conclusion  
+## **7. Conclusion**  
 This equity split plan promotes fairness, flexibility, and long-term motivation for both co-founders. By combining **time-based and performance-based vesting**, it ensures each co-founder contributes meaningfully and is rewarded accordingly.
 
 ---
