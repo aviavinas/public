@@ -16,29 +16,27 @@ To ensure fair equity distribution, the vesting structure combines **time-based*
 - **50% Time-Based Vesting**
 - **50% Performance-Based Vesting**
 
-#### **Pie Chart**
-![Vesting Structure Pie Chart](https://quickchart.io/chart?c=%7Btype:%22pie%22,data:%7Blabels:%5B%2250%25%20Time-Based%20Vesting%22,%2250%25%20Performance-Based%20Vesting%22%5D,datasets:%5B%7Bdata:%5B50,50%5D%7D%5D%7D%7D)
-
 ### **2.1 Time-Based Vesting**
 - **Vesting Period**: **50% of equity** vests gradually over **4 years**.
-- **1-Year Cliff**: No equity vests in the first year; **25% vests after 12 months** of active involvement. The remainder vests gradually thereafter.
+- **1-Year Cliff**: No equity vests in the first year; **5% vests after 12 months** of active involvement. The remainder vests gradually thereafter.
 
 | **Time Period** | **Equity Vested** | **Notes**                     |
 |------------------|-------------------|-------------------------------|
-| Year 1           | 0%                | Initial lock period           |
-| Year 2           | 25%               | After 1-year cliff            |
-| Years 3-4        | Remaining 25%     | Monthly/quarterly thereafter   |
+| Year 0           | 0%                | Initial lock period           |
+| Year 1           | 5%                | First unlock                  |
+| Year 2           | 10%               | After 1-year cliff            |
+| Years 3-4        | Remaining 35%     | Monthly/quarterly thereafter   |
 
 ### **2.2 Performance-Based Vesting**  
 The remaining **50% of equity** vests based on specific contributions. Here are the key milestones:
 
-| **Milestone**                 | **Description**                        | **Equity Percentage** |
-|-------------------------------|----------------------------------------|------------------------|
-| **Product Development**       | Launch MVP or key product features     | 10%                    |
-| **Customer Acquisition**      | Secure first paying customers          | 10%                    |
-| **Revenue Milestones**        | Achieve specific revenue targets       | 10%                    |
-| **Fundraising**               | Lead or contribute to funding rounds   | 10%                    |
-| **Leadership & Strategy**     | Manage teams or guide overall direction | 10%                    |
+| **Milestone**                 | **Description**                        |
+|-------------------------------|----------------------------------------|
+| **Product Development**       | Launch MVP or key product features     |
+| **Customer Acquisition**      | Secure first paying customers          |
+| **Revenue Milestones**        | Achieve specific revenue targets       |
+| **Fundraising**               | Lead or contribute to funding rounds   |
+| **Leadership & Strategy**     | Manage teams or guide overall direction |
 
 ### **Performance Reviews**
 - Regular reviews (quarterly/bi-annual) to assess contributions.
